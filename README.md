@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Naser 👋
+# Hi, I'm Naser 
 
 Frontend developer focused on building modern, responsive web applications with clean UI and smooth interactions.
 
@@ -21,22 +21,22 @@ Frontend developer focused on building modern, responsive web applications with 
 
 ## 📌 Featured Projects
 
-### 🍎 iPhone 15 Pro Clone
+###  iPhone 15 Pro Clone
 Apple-inspired interactive landing page clone with animations and 3D model viewer.
 
-### 🛒 ShopSphere
+###  ShopSphere
 Modern e-commerce project built with full-stack technologies.
 
-### ⚡ BrainWave
+###  BrainWave
 Responsive AI-themed landing page built with React and Tailwind.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Backend Development
 - Databases
 - System Design  
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/Smook-e
 - LinkedIn: www.linkedin.com/in/ahmed-naser-230471203
