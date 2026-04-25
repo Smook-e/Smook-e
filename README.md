@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**Smook-e/Smook-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Naser 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend developer focused on building modern, responsive web applications with clean UI and smooth interactions.
+
+## 🚀 Tech Stack
+
+- React
+- JavaScript / TypeScript
+- Tailwind CSS
+- GSAP
+
+## 💻 Currently Working On
+
+- Improving full-stack development skills  
+- Building portfolio projects  
+- Learning backend development with Django and Python
+- Learning Databases and Postgresql
+- Solving problems on LeetCode and Codewars
+
+## 📌 Featured Projects
+
+### 🍎 iPhone 15 Pro Clone
+Apple-inspired interactive landing page clone with animations and 3D model viewer.
+
+### 🛒 ShopSphere
+Modern e-commerce project built with full-stack technologies.
+
+### ⚡ BrainWave
+Responsive AI-themed landing page built with React and Tailwind.
+
+## 🌱 Currently Learning
+
+- Backend Development
+- Databases
+- System Design  
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Smook-e
+- LinkedIn: www.linkedin.com/in/ahmed-naser-230471203
+
+---
