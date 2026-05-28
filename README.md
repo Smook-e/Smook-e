@@ -6,10 +6,11 @@ Frontend developer focused on building modern, responsive web applications with 
 
 ## 🚀 Tech Stack
 
+-FastApi
+-PostgreSQL
 - React
 - JavaScript / TypeScript
-- Tailwind CSS
-- GSAP
+
 
 ## 💻 Currently Working On
 
