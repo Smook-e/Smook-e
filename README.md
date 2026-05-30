@@ -6,8 +6,8 @@ Frontend developer focused on building modern, responsive web applications with 
 
 ## 🚀 Tech Stack
 
--FastApi
--PostgreSQL
+- FastApi
+- PostgreSQL
 - React
 - JavaScript / TypeScript
 
