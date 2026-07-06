@@ -121,15 +121,8 @@ Highlights:
 
 ---
 
-# GitHub Stats
 
-<!-- GitHub Stats -->
-
-<!-- Add your preferred GitHub stats cards here -->
-
----
 
 ## Let's Connect
 
 * LinkedIn: [www.linkedin.com/in/ahmed-naser-230471203](http://www.linkedin.com/in/ahmed-naser-230471203)
-* Portfolio: *(add when available)*
