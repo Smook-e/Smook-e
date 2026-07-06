@@ -1,63 +1,135 @@
+# Hi, I'm Ahmed Nasser 
 
-# Hi, I'm Nasser
+Computer and Communications Engineering student passionate about backend engineering, distributed systems, and database internals.
 
-Backend-focused full-stack developer building scalable web applications with a focus on system design, performance, and clean architecture.
-
----
-
-## 🚀 Tech Stack
-
-- FastAPI
-- PostgreSQL
-- Redis
-- Celery
-- Docker / Docker Compose
-- React
-- JavaScript / TypeScript
-- Python
+I enjoy building software beyond CRUD applications—designing scalable backend architectures, optimizing system performance, and understanding how systems work under the hood. My recent work includes distributed task processing, caching, performance optimization, and currently, building a relational database engine from scratch.
 
 ---
 
-## 💻 Currently Working On
+## Tech Stack
 
-- Building production-ready backend systems with FastAPI and distributed workers
-- Improving system design and backend architecture skills
-- Developing full-stack portfolio projects with real-world patterns (caching, queues, schedulers)
-- Solving algorithm problems on LeetCode
+### Languages
 
----
+* Python • Go • Java • C/C++ • SQL • JavaScript/TypeScript
 
-## 📌 Featured Projects
+### Backend
 
-### 🛒 ProductTracker
-product monitoring platform with scraping, caching, and background processing.
+* FastAPI
+* Node.js / Express
+* PostgreSQL
+* Redis
+* Celery
+* SQLAlchemy
 
-- Built a FastAPI + PostgreSQL backend with Redis caching and Celery workers
-- Designed a Factory Pattern-based scraping system supporting multiple e-commerce domains
-- Implemented asynchronous task scheduling for automated product updates
-- Optimized API performance using caching (up to ~24× throughput improvement under load testing)
-- Containerized the entire system using Docker Compose (API, DB, cache, workers)
+### Frontend
 
-### 📱 iPhone 15 Pro Clone
--Apple-inspired interactive landing page with animations and 3D model integration.
--Optimized performance by 70% from a 52 to 88 on mobile Lighthouse score by deferring Three.js canvas initialization,
-lazy-loading 3D components and videos, and applying mobile-specific DPR and antialias tuning
+* React
+* Tailwind CSS
+* HTML / CSS
 
-### 🛍️ ShopSphere
-Full-stack e-commerce platform built with modern web technologies.
+### DevOps & Tools
 
----
-
-## 📚 Currently Learning
-
-- System Design (scalable backend systems)
-- Distributed systems concepts (queues, caching, workers)
-- Advanced PostgreSQL
-- Cloud deployment basics
+* Docker
+* Docker Compose
+* Linux
+* Git
+* Postman
 
 ---
 
-## 📫 Connect With Me
+# Featured Projects
 
-- GitHub: https://github.com/Smook-e
-- LinkedIn: www.linkedin.com/in/ahmed-naser-230471203
+## 🗄️ Custom Relational Database *(In Progress)*
+
+Building a relational database engine from scratch in Go to understand how modern databases work internally.
+
+Current features include:
+
+* SQL lexer and parser
+* Disk-based storage engine
+* Table management
+* Page-oriented persistence
+* Query execution pipeline
+
+Planned features:
+
+* B+ Tree indexing
+* Query optimization
+* Transactions
+* Concurrency control
+* Foreign keys and constraints
+
+**Focus:** Database Internals • Storage Engines • Systems Programming • Query Processing
+
+---
+
+## 🛒 ProductTracker
+
+Scalable product monitoring platform built with FastAPI, PostgreSQL, Redis, Celery, and Docker.
+
+Highlights:
+
+* Designed an extensible scraping framework supporting multiple e-commerce websites using the Factory Pattern.
+* Implemented asynchronous background processing with Celery workers and Redis.
+* Automated scheduled product tracking with Celery Beat.
+* Optimized API performance with Redis caching, improving throughput by **24×** under load testing.
+* Designed a normalized relational database schema to eliminate redundant scraping.
+* Containerized the entire application using Docker Compose.
+
+**Focus:** Backend Architecture • Distributed Systems • Caching • Performance Engineering
+
+---
+
+## 📱 iPhone 15 Pro Clone
+
+Apple-inspired interactive landing page built with React, Three.js, and GSAP.
+
+Highlights:
+
+* Interactive 3D product viewer
+* Smooth scroll-based animations
+* Mobile performance optimization
+* Lighthouse score improved from **52 → 88**
+
+**Focus:** Frontend Performance • UI Engineering
+
+---
+
+## 🧩 Sudoku Engine
+
+Java desktop application featuring an optimized Sudoku solver and puzzle generator.
+
+Highlights:
+
+* Object-oriented architecture using MVC
+* Iterator and Flyweight design patterns
+* Interactive GUI with undo history
+* Difficulty-based puzzle generation
+
+**Focus:** Algorithms • Design Patterns • Java
+
+---
+
+# Currently Learning
+
+* Database internals
+* Distributed systems
+* Query optimization
+* Storage engines
+* System design
+* Go
+
+---
+
+# GitHub Stats
+
+<!-- GitHub Stats -->
+
+<!-- Add your preferred GitHub stats cards here -->
+
+---
+
+## Let's Connect
+
+* LinkedIn: [www.linkedin.com/in/ahmed-naser-230471203](http://www.linkedin.com/in/ahmed-naser-230471203)
+* Portfolio: *(add when available)*
