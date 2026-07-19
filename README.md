@@ -50,10 +50,10 @@ Current features include:
 * Table management
 * Page-oriented persistence
 * Query execution pipeline
+* B+ Tree indexing
 
 Planned features:
 
-* B+ Tree indexing
 * Query optimization
 * Transactions
 * Concurrency control
